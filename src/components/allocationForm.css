@@ -1,0 +1,39 @@
+/* Budget.css */
+
+.budget-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.budget-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.budget-title {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.budget-controls {
+    display: flex;
+    align-items: center;
+}
+
+.currency-select {
+    margin-right: 10px;
+}
+
+.budget-input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+}
